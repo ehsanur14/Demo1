@@ -1,3 +1,3 @@
 # Demo
 //First Git Repos
-//auhtor: Ehsanur Rahman
+//auhtor: Ehsanur Rahman Sifat
